@@ -1,4 +1,4 @@
-# Trust - Ethereum Wallet for Android
+0xc256a6869dcc04af795c0f040b30f4a3fa9d3007
 
 [![Build Status](https://travis-ci.org/TrustWallet/trust-wallet-android.svg?branch=master)](https://travis-ci.org/TrustWallet/trust-wallet-android)
 [![License](https://img.shields.io/badge/license-GPL3-green.svg?style=flat)](https://github.com/fastlane/fastlane/blob/master/LICENSE)
